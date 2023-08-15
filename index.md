@@ -6,7 +6,7 @@ description: Un resumen descriptivo de Samuel Monge
 ---
 # Bienvenidos a mi página personal
 ---
-![FotoPersonal](C:\Users\Samuel Monge León\Documents\GitHub\SamuelMongeLeon.github.io\FotoPersonal.jpg)
+![FotoPersonal](C:\Users\Samuel Monge León\Documents\GitHub\SamuelMongeLeon.github.io\FotoPersonal.png)
 
 [Linkedin](https://www.linkedin.com/in/samuel-monge-1b5283267/)
 
