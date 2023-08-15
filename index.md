@@ -6,7 +6,7 @@ description: Un resumen descriptivo de Samuel Monge
 ---
 # Bienvenidos a mi página personal
 ---
-![FotoPersonal](FotoPersonal.png =271x138)
+![FotoPersonal](FotoPersonal.png)
 
 [Linkedin](https://www.linkedin.com/in/samuel-monge-1b5283267/)
 
